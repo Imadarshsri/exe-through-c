@@ -18,13 +18,9 @@
    exec <num1> <num2> <num3> .\dist\sum\sum.exe
    ```
 
-   ```html
+   ```
    Usage :
-   <o-file(compiled c file)>
-     <num-1>
-       <num2>
-         <num3> <exe-file-name></exe-file-name></num3></num2></num-1
-   ></o-file(compiled>
+   <o-file(compiled c file)> <num-1> <num2> <num3> <exe-file-name>
    ```
 
 ## On Error related to exe file
